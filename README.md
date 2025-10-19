@@ -20,4 +20,6 @@ It’s designed to handle everything from basic arithmetic to advanced scientifi
 
 # 🔹 Portrait Mode
 
+![image alt](potrait.png)
+
 # 🔹 Landscape Mode
