@@ -20,6 +20,6 @@ It’s designed to handle everything from basic arithmetic to advanced scientifi
 
 # 🔹 Portrait Mode
 
-<img src="portrait.png" alt="Portrait Mode" width="300"/>
+![image alt](https://github.com/Numrah141/android-scientific-calculator-java/blob/fc0223e48efbf69db40bf783d619dcec6f9f3598/potrait.png)
 
 # 🔹 Landscape Mode
