@@ -6,7 +6,7 @@ It’s designed to handle everything from basic arithmetic to advanced scientifi
 # 🚀 Features
 🔹 Perform basic arithmetic operations (+, −, ×, ÷, %)
 
-🔹 Advanced scientific functions: sin, cos, tan, log, ln, √, ^
+🔹 Advanced scientific functions: sin, cos, tan, log, ln, √, ^, π, factorial
 
 🔹 Error handling for invalid expressions
 
@@ -20,6 +20,11 @@ It’s designed to handle everything from basic arithmetic to advanced scientifi
 
 # 🔹 Portrait Mode
 
-![image alt](https://github.com/Numrah141/android-scientific-calculator-java/blob/fc0223e48efbf69db40bf783d619dcec6f9f3598/potrait.png)
+<img width="210" height="2400" alt="potrait" src="https://github.com/user-attachments/assets/216c943e-0f01-4327-b9ba-d8b17ecaf7f3" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="210" height="2400" alt="potrait (2)" src="https://github.com/user-attachments/assets/dc3638c8-a7e6-4639-b10b-e047812f6e67" />
+
 
 # 🔹 Landscape Mode
+
+<img width="500" height="310" alt="landscape" src="https://github.com/user-attachments/assets/a3dc0178-0cd0-4083-9ba2-d170991b467d" />
